@@ -2,13 +2,13 @@ package mirror
 
 import (
 	"fmt"
-	"github.com/DjordjeVuckovic/git-mirror/internal/config"
 	"github.com/go-git/go-git/v5"
 	gitcfg "github.com/go-git/go-git/v5/config"
 	"github.com/go-git/go-git/v5/plumbing/transport"
 	"github.com/go-git/go-git/v5/plumbing/transport/http"
 	"github.com/go-git/go-git/v5/plumbing/transport/ssh"
 	"github.com/go-git/go-git/v5/storage/memory"
+	"github.com/tadjov/git-mirror/internal/config"
 	"os"
 	"path/filepath"
 	"strings"

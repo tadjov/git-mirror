@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/DjordjeVuckovic/git-mirror/internal/config"
+	"github.com/tadjov/git-mirror/internal/config"
 	"log"
 
 	"github.com/spf13/cobra"

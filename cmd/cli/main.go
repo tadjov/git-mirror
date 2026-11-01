@@ -1,6 +1,6 @@
 package main
 
-import "github.com/DjordjeVuckovic/git-mirror/pkg/cmd"
+import "github.com/tadjov/git-mirror/pkg/cmd"
 
 func main() {
 	cmd.Execute()

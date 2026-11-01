@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/DjordjeVuckovic/git-mirror/internal/config"
-	"github.com/DjordjeVuckovic/git-mirror/internal/mirror"
+	"github.com/tadjov/git-mirror/internal/config"
+	"github.com/tadjov/git-mirror/internal/mirror"
 	"log"
 
 	"github.com/spf13/cobra"

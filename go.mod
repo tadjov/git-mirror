@@ -1,4 +1,4 @@
-module github.com/DjordjeVuckovic/git-mirror
+module github.com/tadjov/git-mirror
 
 go 1.24
 
